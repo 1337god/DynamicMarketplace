@@ -1,0 +1,27 @@
+name: dynaMark
+version: ${project.version}
+main: org.dynamicmarketplace.dynamicmarketplace.DynamicMarketplace
+api-version: 1.13
+depend: [Vault]
+commands:
+  buy:
+    description: buy an item from the shop
+    usage: /buy <item> <amount>
+  sell:
+    description: sell and item to the shop
+    usage: /sell <item> <amount>
+  sellHand:
+    description: sells the item(s) currently in your hand
+    usage: /sellhand
+  sellAll:
+    description: sells everything in your inventory
+    usage: /sellAll
+  cost:
+    description: see the cost of buying an item
+    usage: /cost <item> <amount>
+  itemInfo:
+    description: see market info on a specific item
+    usage: /itemInfo <item>
+  infoHand:
+    description: see market information for held item
+    usage: /infoHand
