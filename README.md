@@ -1,0 +1,1 @@
+# The File `Dynamic Market` should be put into the plugins folder of the server. It contains the data about recipies that is loaded by the plugin on startup.

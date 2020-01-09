@@ -1,0 +1,179 @@
+# This file contains all the basic items in the game and their default quantities
+# Prices will fluxuate as supply/demand shift, but they are basted off these quantities
+# Item prices are calculated through this list, and the recipie list
+
+# Quantity dictates cost
+
+# $1000 -> 3
+# $100 -> 30
+# $10 -> 300
+# $5 -> 600
+# $2 -> 1500
+# $1 -> 3000
+# $0.5 -> 6000
+# $0.1 -> 30000
+# $0.05 -> 60000
+# $0.025 -> 120000
+# $0.01 -> 300000
+
+### WOOD ###
+
+oak_leaves: 120000
+oak_log: 30000
+oak_sapling: 30000
+
+### ORES ###
+
+iron_ore: 30000
+gold_ore: 30000
+diamond: 600
+emerald: 30000
+redstone: 60000
+coal: 60000
+lapis_lazuli: 60000 
+
+## BLOCKS ###
+
+cobblestone: 300000
+andesite: 120000
+diorite: 120000
+granite: 120000
+
+obsidian: 6000
+
+grass_block: 120000
+dirt: 300000
+podzol: 120000
+mycelium: 120000
+
+red_sand: 120000
+sand: 120000
+
+clay_ball: 120000
+gravel: 120000
+
+ice: 60000
+
+### ITEMS ###
+
+iron_horse_armor:  300
+golden_horse_armor: 200
+diamond_horse_armor: 100
+
+### WATER ###
+
+prismarine_shard: 30000
+prismarine_crystals: 30000
+sponge: 600
+trident: 30
+snowball: 300000
+
+### NETHER ###
+
+netherrack: 300000
+quartz: 30000
+nether_wart: 30000
+glowstone_dust: 30000
+ghast_tear: 600
+blaze_rod: 3000
+soul_sand: 120000
+magma_block: 120000
+wither_rose: 3000
+wither_skeleton_skull: 300
+
+### MOBS ###
+
+spider_eye: 30000
+ender_pearl: 30000
+gunpowder: 30000
+string: 120000
+phantom_membrane: 600
+rotten_flesh: 120000
+bone: 120000
+slime_ball: 10000
+
+### END ###
+
+end_stone: 300000
+chorus_fruit: 30000
+dragon_egg: 1
+nether_star: 10
+dragon_head: 3
+
+### PLANTS & ANIMALS ###
+
+apple: 6000
+honeycomb: 6000
+vine: 6000
+sugar_cane: 120000
+sweet_berries: 30000
+wheat_seeds: 60000
+fern: 60000
+red_mushroom: 60000
+lily_pad: 60000
+ink_sac: 60000
+rose_bush: 30000
+beetroot_seeds: 30000
+cactus: 120000
+carrot: 60000
+pumpkin: 60000
+melon_slice: 120000
+bamboo: 300000
+cocoa_beans: 60000
+
+beef: 30000
+potato: 120000
+porkchop: 30000
+rabbit: 3000
+mutton: 6000
+leather: 6000
+kelp: 120000
+
+cod: 6000
+salmon: 6000
+pufferfish: 6000
+turtle_egg: 1500
+egg: 60000
+
+feather: 60000
+rabbit_foot: 6000
+rabbit_hide: 6000
+
+### MISC ###
+
+cobweb: 3000
+name_tag: 600
+saddle: 600
+elytra: 15
+
+totem_of_undying: 10
+nautilus_shell: 300
+heart_of_the_sea: 5
+
+bee_nest: 300
+bell: 100
+
+### FLOWERS ###
+
+allium: 30000
+azure_bluet: 30000
+blue_orchid: 30000
+cornflower: 30000
+dandelion: 30000
+lilac: 30000
+lily_of_the_valley: 30000
+orange_tulip: 30000
+oxeye_daisy: 30000
+peony: 30000
+pink_tulip: 30000
+poppy: 30000
+red_tulip: 30000
+sunflower: 30000
+white_tulip: 30000
+
+# ITems to be considered later
+# bed?
+# white banner?
+#shulker_box?
+# wool
+# music disk

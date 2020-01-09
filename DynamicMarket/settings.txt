@@ -1,0 +1,5 @@
+tax: 1.02
+crafting: 1.01
+smelting: 1.02
+growing: 1.1
+scaleFactor: 3000
